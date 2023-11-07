@@ -1,0 +1,24 @@
+--- Filme ---
+Star Wars
+Ficcao cientifica
+150
+--- Filme ---
+Kimi no na wa
+Romance/Drama
+90
+--- Filme ---
+One Piece Gold
+Aventura
+100
+--- Filme ---
+As Formiguinhas
+Infantil/Aventura
+83
+--- Filme ---
+Deu a louca nos bichos
+Infantil/Comedia
+92
+--- Filme ---
+Zootopia
+Infantil/Aventura
+108

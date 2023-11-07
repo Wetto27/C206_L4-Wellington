@@ -1,0 +1,21 @@
+--- Veiculo ---
+CU
+Bentley
+2000
+24.5
+8.0
+8
+--- Veiculo ---
+penes
+Bentley
+1999
+99.0
+2000.0
+6
+--- Veiculo ---
+anus
+Rolls-Royce
+2020
+67.0
+777.0
+8
